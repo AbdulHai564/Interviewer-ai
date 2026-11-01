@@ -83,3 +83,5 @@ yarl==1.25.1
 zstandard==0.25.0
 fastapi[standard]
 fastapi[standard]
+e2b-code-interpreter==2.11.6
+e2b-mcp==<version>
