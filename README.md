@@ -3,8 +3,6 @@
 An AI-powered mock interview platform. Pick a company and role, and an AI interviewer conducts a realistic, multi-round interview — researching the company live, adapting its questions to your answers, running your code in a real sandbox, and generating a recruiter-style evaluation report at the end.
 
 **Live app:** https://interviewer-ai-pearl.vercel.app/
-**Live API:** https://interviewer-ai.fastapicloud.dev
-**Repo:** https://github.com/AbdulHai564/Interviewer-ai
 
 ---
 
