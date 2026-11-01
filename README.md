@@ -21,7 +21,7 @@ An AI-powered mock interview platform. Pick a company and role, and an AI interv
 **Backend**
 - **FastAPI** — API layer
 - **LangGraph** — orchestrates the interview as a stateful agent graph (entry → interview loop → evaluation)
-- **Groq (Llama 3.3 70B)** — the interviewer and evaluator LLM
+- **Groq (openai-gpt-120b)** — the interviewer and evaluator LLM
 - **Tavily** — live web search tool the agent calls to research each company's actual hiring process
 - **E2B** — secure sandboxed code execution for coding rounds
 - **PostgreSQL (Neon)** — persists sessions, scores, and a cache of researched company intel
